@@ -1,0 +1,325 @@
+{
+ "frames": {
+  "boss_brain": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 350
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 350
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 350
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.974
+   }
+  },
+  "zombie_brute": {
+   "frame": {
+    "x": 301,
+    "y": 0,
+    "w": 326,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 326,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 326,
+    "h": 320
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.971
+   }
+  },
+  "hero_stage1_bat": {
+   "frame": {
+    "x": 629,
+    "y": 0,
+    "w": 197,
+    "h": 290
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 290
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 290
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.935
+   }
+  },
+  "hero_stage2_helmet": {
+   "frame": {
+    "x": 0,
+    "y": 352,
+    "w": 270,
+    "h": 290
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 270,
+    "h": 290
+   },
+   "sourceSize": {
+    "w": 270,
+    "h": 290
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.942
+   }
+  },
+  "hero_stage3_armor": {
+   "frame": {
+    "x": 272,
+    "y": 352,
+    "w": 178,
+    "h": 290
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 178,
+    "h": 290
+   },
+   "sourceSize": {
+    "w": 178,
+    "h": 290
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.894
+   }
+  },
+  "hero_stage4_suit": {
+   "frame": {
+    "x": 452,
+    "y": 352,
+    "w": 227,
+    "h": 290
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 227,
+    "h": 290
+   },
+   "sourceSize": {
+    "w": 227,
+    "h": 290
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.935
+   }
+  },
+  "zombie_helmet_dark": {
+   "frame": {
+    "x": 681,
+    "y": 352,
+    "w": 156,
+    "h": 225
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 156,
+    "h": 225
+   },
+   "sourceSize": {
+    "w": 156,
+    "h": 225
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.953
+   }
+  },
+  "zombie_helmet_army": {
+   "frame": {
+    "x": 839,
+    "y": 352,
+    "w": 151,
+    "h": 225
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 225
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 225
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.953
+   }
+  },
+  "zombie_beanie": {
+   "frame": {
+    "x": 0,
+    "y": 644,
+    "w": 142,
+    "h": 225
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 225
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 225
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.949
+   }
+  },
+  "ghost_skull": {
+   "frame": {
+    "x": 144,
+    "y": 644,
+    "w": 160,
+    "h": 200
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 160,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 160,
+    "h": 200
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "dig_spot": {
+   "frame": {
+    "x": 306,
+    "y": 644,
+    "w": 190,
+    "h": 174
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 190,
+    "h": 174
+   },
+   "sourceSize": {
+    "w": 190,
+    "h": 174
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.969
+   }
+  },
+  "pickup_hammer": {
+   "frame": {
+    "x": 498,
+    "y": 644,
+    "w": 200,
+    "h": 164
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 164
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 164
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "pickup_crystal": {
+   "frame": {
+    "x": 700,
+    "y": 644,
+    "w": 72,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 72,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 72,
+    "h": 120
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "image": "characters.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1024,
+   "h": 1024
+  },
+  "scale": "1"
+ }
+}

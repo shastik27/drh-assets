@@ -1,0 +1,470 @@
+{
+  "tileWidth": 256,
+  "tileHeight": 162,
+  "sprites": {
+    "hero_stage1_bat": {
+      "file": "sprites/hero_stage1_bat.png",
+      "category": "hero",
+      "width": 197,
+      "height": 290,
+      "anchor": [
+        0.5,
+        0.935
+      ],
+      "footprintTiles": null,
+      "description": "Hero, power 1-49: hoodie + baseball bat",
+      "atlas": "characters"
+    },
+    "hero_stage2_helmet": {
+      "file": "sprites/hero_stage2_helmet.png",
+      "category": "hero",
+      "width": 270,
+      "height": 290,
+      "anchor": [
+        0.5,
+        0.942
+      ],
+      "footprintTiles": null,
+      "description": "Hero, power 50-499: army helmet + glowing hammer",
+      "atlas": "characters"
+    },
+    "hero_stage3_armor": {
+      "file": "sprites/hero_stage3_armor.png",
+      "category": "hero",
+      "width": 178,
+      "height": 290,
+      "anchor": [
+        0.5,
+        0.894
+      ],
+      "footprintTiles": null,
+      "description": "Hero, power 500-4999: scrap-metal armor",
+      "atlas": "characters"
+    },
+    "hero_stage4_suit": {
+      "file": "sprites/hero_stage4_suit.png",
+      "category": "hero",
+      "width": 227,
+      "height": 290,
+      "anchor": [
+        0.5,
+        0.935
+      ],
+      "footprintTiles": null,
+      "description": "Hero, power 5000+: glowing combat suit",
+      "atlas": "characters"
+    },
+    "zombie_helmet_dark": {
+      "file": "sprites/zombie_helmet_dark.png",
+      "category": "enemy",
+      "width": 156,
+      "height": 225,
+      "anchor": [
+        0.5,
+        0.953
+      ],
+      "footprintTiles": null,
+      "description": "Basic zombie, dark helmet",
+      "atlas": "characters"
+    },
+    "zombie_helmet_army": {
+      "file": "sprites/zombie_helmet_army.png",
+      "category": "enemy",
+      "width": 151,
+      "height": 225,
+      "anchor": [
+        0.5,
+        0.953
+      ],
+      "footprintTiles": null,
+      "description": "Basic zombie, army helmet",
+      "atlas": "characters"
+    },
+    "zombie_beanie": {
+      "file": "sprites/zombie_beanie.png",
+      "category": "enemy",
+      "width": 142,
+      "height": 225,
+      "anchor": [
+        0.5,
+        0.949
+      ],
+      "footprintTiles": null,
+      "description": "Basic zombie, red beanie",
+      "atlas": "characters"
+    },
+    "zombie_brute": {
+      "file": "sprites/zombie_brute.png",
+      "category": "enemy",
+      "width": 326,
+      "height": 320,
+      "anchor": [
+        0.5,
+        0.971
+      ],
+      "footprintTiles": null,
+      "description": "Fat brute zombie",
+      "atlas": "characters"
+    },
+    "ghost_skull": {
+      "file": "sprites/ghost_skull.png",
+      "category": "enemy",
+      "width": 160,
+      "height": 200,
+      "anchor": [
+        0.5,
+        1.0
+      ],
+      "footprintTiles": null,
+      "description": "Ghost skull (passes walls), hovers",
+      "atlas": "characters"
+    },
+    "boss_brain": {
+      "file": "sprites/boss_brain.png",
+      "category": "enemy",
+      "width": 299,
+      "height": 350,
+      "anchor": [
+        0.5,
+        0.974
+      ],
+      "footprintTiles": null,
+      "description": "Boss: mutant with brain dome",
+      "atlas": "characters"
+    },
+    "house_boarded": {
+      "file": "sprites/house_boarded.png",
+      "category": "prop",
+      "width": 470,
+      "height": 543,
+      "anchor": [
+        0.5,
+        0.976
+      ],
+      "footprintTiles": [
+        2,
+        2
+      ],
+      "description": "Boarded-up house",
+      "atlas": "world"
+    },
+    "car_rusty": {
+      "file": "sprites/car_rusty.png",
+      "category": "prop",
+      "width": 270,
+      "height": 228,
+      "anchor": [
+        0.5,
+        0.971
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Rusty car",
+      "atlas": "world"
+    },
+    "pool": {
+      "file": "sprites/pool.png",
+      "category": "prop",
+      "width": 360,
+      "height": 250,
+      "anchor": [
+        0.5,
+        0.972
+      ],
+      "footprintTiles": [
+        2,
+        1
+      ],
+      "description": "Swimming pool",
+      "atlas": "world"
+    },
+    "sandbags": {
+      "file": "sprites/sandbags.png",
+      "category": "prop",
+      "width": 170,
+      "height": 143,
+      "anchor": [
+        0.5,
+        0.959
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Sandbags",
+      "atlas": "world"
+    },
+    "barricade": {
+      "file": "sprites/barricade.png",
+      "category": "prop",
+      "width": 190,
+      "height": 197,
+      "anchor": [
+        0.5,
+        0.97
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Barricade (can block a path)",
+      "atlas": "world"
+    },
+    "tree_autumn": {
+      "file": "sprites/tree_autumn.png",
+      "category": "prop",
+      "width": 218,
+      "height": 300,
+      "anchor": [
+        0.5,
+        0.973
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Orange autumn tree",
+      "atlas": "world"
+    },
+    "tree_dead": {
+      "file": "sprites/tree_dead.png",
+      "category": "prop",
+      "width": 193,
+      "height": 280,
+      "anchor": [
+        0.5,
+        0.969
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Dead tree",
+      "atlas": "world"
+    },
+    "van_scientist": {
+      "file": "sprites/van_scientist.png",
+      "category": "prop",
+      "width": 290,
+      "height": 290,
+      "anchor": [
+        0.5,
+        0.97
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Scientist's van (NPC spot)",
+      "atlas": "world"
+    },
+    "ufo_crashed": {
+      "file": "sprites/ufo_crashed.png",
+      "category": "prop",
+      "width": 280,
+      "height": 210,
+      "anchor": [
+        0.5,
+        0.966
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Crashed UFO",
+      "atlas": "world"
+    },
+    "fence": {
+      "file": "sprites/fence.png",
+      "category": "prop",
+      "width": 170,
+      "height": 180,
+      "anchor": [
+        0.5,
+        0.941
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Wooden fence segment",
+      "atlas": "world"
+    },
+    "tile_grass": {
+      "file": "sprites/tile_grass.png",
+      "category": "tile",
+      "width": 256,
+      "height": 175,
+      "anchor": [
+        0.5,
+        0.469
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Ground: dry grass",
+      "atlas": "world"
+    },
+    "tile_dirt": {
+      "file": "sprites/tile_dirt.png",
+      "category": "tile",
+      "width": 256,
+      "height": 175,
+      "anchor": [
+        0.5,
+        0.463
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Ground: dirt",
+      "atlas": "world"
+    },
+    "tile_asphalt": {
+      "file": "sprites/tile_asphalt.png",
+      "category": "tile",
+      "width": 256,
+      "height": 174,
+      "anchor": [
+        0.5,
+        0.471
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Ground: cracked asphalt",
+      "atlas": "world"
+    },
+    "tile_path": {
+      "file": "sprites/tile_path.png",
+      "category": "tile",
+      "width": 256,
+      "height": 176,
+      "anchor": [
+        0.5,
+        0.472
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Path tile",
+      "atlas": "world"
+    },
+    "tile_path_corner": {
+      "file": "sprites/tile_path_corner.png",
+      "category": "tile",
+      "width": 256,
+      "height": 154,
+      "anchor": [
+        0.5,
+        0.519
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Path tile with notch (corner)",
+      "atlas": "world"
+    },
+    "tile_node_pad": {
+      "file": "sprites/tile_node_pad.png",
+      "category": "tile",
+      "width": 256,
+      "height": 176,
+      "anchor": [
+        0.5,
+        0.472
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Round stone pad for path nodes",
+      "atlas": "world"
+    },
+    "wall_purple": {
+      "file": "sprites/wall_purple.png",
+      "category": "prop",
+      "width": 240,
+      "height": 244,
+      "anchor": [
+        0.5,
+        0.927
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Purple retaining wall block",
+      "atlas": "world"
+    },
+    "stairs_purple": {
+      "file": "sprites/stairs_purple.png",
+      "category": "prop",
+      "width": 270,
+      "height": 255,
+      "anchor": [
+        0.5,
+        0.976
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Purple stairs between height levels",
+      "atlas": "world"
+    },
+    "pickup_crystal": {
+      "file": "sprites/pickup_crystal.png",
+      "category": "pickup",
+      "width": 72,
+      "height": 120,
+      "anchor": [
+        0.5,
+        1.0
+      ],
+      "footprintTiles": null,
+      "description": "Crystal (soft currency)",
+      "atlas": "characters"
+    },
+    "pickup_hammer": {
+      "file": "sprites/pickup_hammer.png",
+      "category": "pickup",
+      "width": 200,
+      "height": 164,
+      "anchor": [
+        0.5,
+        1.0
+      ],
+      "footprintTiles": null,
+      "description": "Weapon pickup (+power)",
+      "atlas": "characters"
+    },
+    "dig_spot": {
+      "file": "sprites/dig_spot.png",
+      "category": "pickup",
+      "width": 190,
+      "height": 174,
+      "anchor": [
+        0.5,
+        0.969
+      ],
+      "footprintTiles": null,
+      "description": "Dig spot '?' with shovel",
+      "atlas": "characters"
+    }
+  },
+  "note": "Isometric grid: screenX = (col - row) * tileWidth/2, screenY = (col + row) * tileHeight/2. Draw back-to-front by screenY. Tiles anchor at the centre of their top diamond.",
+  "ground": {
+    "grass": "ground/ground_grass_seamless.png",
+    "dirt": "ground/ground_dirt_seamless.png",
+    "asphalt": "ground/ground_asphalt_seamless.png"
+  },
+  "groundNote": "Fill the whole map with ground_grass as a TileSprite; blend dirt/asphalt patches with soft masks. Use outlined tile sprites only for paths and node pads."
+}
