@@ -13,7 +13,7 @@
       ],
       "footprintTiles": null,
       "description": "Hero, power 1-49: hoodie + baseball bat",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "hero_stage2_helmet": {
       "file": "sprites/hero_stage2_helmet.png",
@@ -26,7 +26,7 @@
       ],
       "footprintTiles": null,
       "description": "Hero, power 50-499: army helmet + glowing hammer",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "hero_stage3_armor": {
       "file": "sprites/hero_stage3_armor.png",
@@ -39,7 +39,7 @@
       ],
       "footprintTiles": null,
       "description": "Hero, power 500-4999: scrap-metal armor",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "hero_stage4_suit": {
       "file": "sprites/hero_stage4_suit.png",
@@ -52,7 +52,7 @@
       ],
       "footprintTiles": null,
       "description": "Hero, power 5000+: glowing combat suit",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "zombie_helmet_dark": {
       "file": "sprites/zombie_helmet_dark.png",
@@ -65,7 +65,7 @@
       ],
       "footprintTiles": null,
       "description": "Basic zombie, dark helmet",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "zombie_helmet_army": {
       "file": "sprites/zombie_helmet_army.png",
@@ -78,7 +78,7 @@
       ],
       "footprintTiles": null,
       "description": "Basic zombie, army helmet",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "zombie_beanie": {
       "file": "sprites/zombie_beanie.png",
@@ -91,7 +91,7 @@
       ],
       "footprintTiles": null,
       "description": "Basic zombie, red beanie",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "zombie_brute": {
       "file": "sprites/zombie_brute.png",
@@ -104,7 +104,7 @@
       ],
       "footprintTiles": null,
       "description": "Fat brute zombie",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "ghost_skull": {
       "file": "sprites/ghost_skull.png",
@@ -117,7 +117,7 @@
       ],
       "footprintTiles": null,
       "description": "Ghost skull (passes walls), hovers",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "boss_brain": {
       "file": "sprites/boss_brain.png",
@@ -130,7 +130,7 @@
       ],
       "footprintTiles": null,
       "description": "Boss: mutant with brain dome",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "house_boarded": {
       "file": "sprites/house_boarded.png",
@@ -146,7 +146,7 @@
         2
       ],
       "description": "Boarded-up house",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "car_rusty": {
       "file": "sprites/car_rusty.png",
@@ -162,7 +162,7 @@
         1
       ],
       "description": "Rusty car",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "pool": {
       "file": "sprites/pool.png",
@@ -178,7 +178,7 @@
         1
       ],
       "description": "Swimming pool",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "sandbags": {
       "file": "sprites/sandbags.png",
@@ -194,7 +194,7 @@
         1
       ],
       "description": "Sandbags",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "barricade": {
       "file": "sprites/barricade.png",
@@ -210,7 +210,7 @@
         1
       ],
       "description": "Barricade (can block a path)",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "tree_autumn": {
       "file": "sprites/tree_autumn.png",
@@ -226,7 +226,7 @@
         1
       ],
       "description": "Orange autumn tree",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "tree_dead": {
       "file": "sprites/tree_dead.png",
@@ -242,7 +242,7 @@
         1
       ],
       "description": "Dead tree",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "van_scientist": {
       "file": "sprites/van_scientist.png",
@@ -258,7 +258,7 @@
         1
       ],
       "description": "Scientist's van (NPC spot)",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "ufo_crashed": {
       "file": "sprites/ufo_crashed.png",
@@ -274,7 +274,7 @@
         1
       ],
       "description": "Crashed UFO",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "fence": {
       "file": "sprites/fence.png",
@@ -290,7 +290,7 @@
         1
       ],
       "description": "Wooden fence segment",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "tile_grass": {
       "file": "sprites/tile_grass.png",
@@ -306,7 +306,7 @@
         1
       ],
       "description": "Ground: dry grass",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "tile_dirt": {
       "file": "sprites/tile_dirt.png",
@@ -322,7 +322,7 @@
         1
       ],
       "description": "Ground: dirt",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "tile_asphalt": {
       "file": "sprites/tile_asphalt.png",
@@ -338,7 +338,7 @@
         1
       ],
       "description": "Ground: cracked asphalt",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "tile_path": {
       "file": "sprites/tile_path.png",
@@ -354,7 +354,7 @@
         1
       ],
       "description": "Path tile",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "tile_path_corner": {
       "file": "sprites/tile_path_corner.png",
@@ -370,7 +370,7 @@
         1
       ],
       "description": "Path tile with notch (corner)",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "tile_node_pad": {
       "file": "sprites/tile_node_pad.png",
@@ -386,7 +386,7 @@
         1
       ],
       "description": "Round stone pad for path nodes",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "wall_purple": {
       "file": "sprites/wall_purple.png",
@@ -402,7 +402,7 @@
         1
       ],
       "description": "Purple retaining wall block",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "stairs_purple": {
       "file": "sprites/stairs_purple.png",
@@ -418,7 +418,7 @@
         1
       ],
       "description": "Purple stairs between height levels",
-      "atlas": "world"
+      "atlas": "world_v2"
     },
     "pickup_crystal": {
       "file": "sprites/pickup_crystal.png",
@@ -431,7 +431,7 @@
       ],
       "footprintTiles": null,
       "description": "Crystal (soft currency)",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "pickup_hammer": {
       "file": "sprites/pickup_hammer.png",
@@ -444,7 +444,7 @@
       ],
       "footprintTiles": null,
       "description": "Weapon pickup (+power)",
-      "atlas": "characters"
+      "atlas": "characters_v2"
     },
     "dig_spot": {
       "file": "sprites/dig_spot.png",
@@ -457,7 +457,291 @@
       ],
       "footprintTiles": null,
       "description": "Dig spot '?' with shovel",
-      "atlas": "characters"
+      "atlas": "characters_v2"
+    },
+    "survivor_mechanic": {
+      "file": "sprites/survivor_mechanic.png",
+      "category": "npc",
+      "width": 222,
+      "height": 270,
+      "anchor": [
+        0.5,
+        0.973
+      ],
+      "footprintTiles": null,
+      "description": "Survivor NPC: mechanic girl (rescue '!')",
+      "atlas": "characters_v2"
+    },
+    "survivor_scientist": {
+      "file": "sprites/survivor_scientist.png",
+      "category": "npc",
+      "width": 204,
+      "height": 270,
+      "anchor": [
+        0.5,
+        0.947
+      ],
+      "footprintTiles": null,
+      "description": "Survivor NPC: old scientist",
+      "atlas": "characters_v2"
+    },
+    "survivor_kid_dog": {
+      "file": "sprites/survivor_kid_dog.png",
+      "category": "npc",
+      "width": 205,
+      "height": 240,
+      "anchor": [
+        0.5,
+        0.968
+      ],
+      "footprintTiles": null,
+      "description": "Survivor NPC: kid with puppy",
+      "atlas": "characters_v2"
+    },
+    "survivor_flag": {
+      "file": "sprites/survivor_flag.png",
+      "category": "npc",
+      "width": 250,
+      "height": 290,
+      "anchor": [
+        0.5,
+        0.959
+      ],
+      "footprintTiles": null,
+      "description": "Survivor NPC: bearded man with white flag",
+      "atlas": "characters_v2"
+    },
+    "zombie_vampire": {
+      "file": "sprites/zombie_vampire.png",
+      "category": "enemy",
+      "width": 169,
+      "height": 225,
+      "anchor": [
+        0.5,
+        0.976
+      ],
+      "footprintTiles": null,
+      "description": "Vampire: steals 25% power",
+      "atlas": "characters_v2"
+    },
+    "zombie_sleeper": {
+      "file": "sprites/zombie_sleeper.png",
+      "category": "enemy",
+      "width": 147,
+      "height": 225,
+      "anchor": [
+        0.5,
+        0.949
+      ],
+      "footprintTiles": null,
+      "description": "Sleeper: wakes up and chases",
+      "atlas": "characters_v2"
+    },
+    "zombie_shield": {
+      "file": "sprites/zombie_shield.png",
+      "category": "enemy",
+      "width": 167,
+      "height": 230,
+      "anchor": [
+        0.5,
+        0.971
+      ],
+      "footprintTiles": null,
+      "description": "Shield: needs 2x power",
+      "atlas": "characters_v2"
+    },
+    "zombie_splitter": {
+      "file": "sprites/zombie_splitter.png",
+      "category": "enemy",
+      "width": 205,
+      "height": 235,
+      "anchor": [
+        0.5,
+        0.98
+      ],
+      "footprintTiles": null,
+      "description": "Splitter: splits into two halves",
+      "atlas": "characters_v2"
+    },
+    "zombie_grower": {
+      "file": "sprites/zombie_grower.png",
+      "category": "enemy",
+      "width": 238,
+      "height": 280,
+      "anchor": [
+        0.5,
+        0.966
+      ],
+      "footprintTiles": null,
+      "description": "Grower: +N power per move",
+      "atlas": "characters_v2"
+    },
+    "zombie_patrol": {
+      "file": "sprites/zombie_patrol.png",
+      "category": "enemy",
+      "width": 142,
+      "height": 230,
+      "anchor": [
+        0.5,
+        0.954
+      ],
+      "footprintTiles": null,
+      "description": "Patroller: walks a loop",
+      "atlas": "characters_v2"
+    },
+    "zombie_bomber": {
+      "file": "sprites/zombie_bomber.png",
+      "category": "enemy",
+      "width": 155,
+      "height": 255,
+      "anchor": [
+        0.5,
+        0.972
+      ],
+      "footprintTiles": null,
+      "description": "Bomber: explodes, destroys nearby bridges/pickups",
+      "atlas": "characters_v2"
+    },
+    "portal_multiply": {
+      "file": "sprites/portal_multiply.png",
+      "category": "gate",
+      "width": 230,
+      "height": 195,
+      "anchor": [
+        0.5,
+        0.97
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Green portal: multiplier / plus gate (put label badge above)",
+      "atlas": "world_v2"
+    },
+    "portal_divide": {
+      "file": "sprites/portal_divide.png",
+      "category": "gate",
+      "width": 230,
+      "height": 197,
+      "anchor": [
+        0.5,
+        0.97
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Red portal: divider / minus trap",
+      "atlas": "world_v2"
+    },
+    "gate_locked": {
+      "file": "sprites/gate_locked.png",
+      "category": "gate",
+      "width": 230,
+      "height": 254,
+      "anchor": [
+        0.5,
+        0.897
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Locked gate (needs key or power cost)",
+      "atlas": "world_v2"
+    },
+    "gate_open": {
+      "file": "sprites/gate_open.png",
+      "category": "gate",
+      "width": 230,
+      "height": 217,
+      "anchor": [
+        0.5,
+        0.851
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Opened gate",
+      "atlas": "world_v2"
+    },
+    "pickup_key": {
+      "file": "sprites/pickup_key.png",
+      "category": "pickup",
+      "width": 108,
+      "height": 120,
+      "anchor": [
+        0.5,
+        1.0
+      ],
+      "footprintTiles": null,
+      "description": "Key pickup",
+      "atlas": "characters_v2"
+    },
+    "bridge_cracked": {
+      "file": "sprites/bridge_cracked.png",
+      "category": "tile",
+      "width": 256,
+      "height": 191,
+      "anchor": [
+        0.5,
+        0.97
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Collapsing bridge tile (breaks after crossing)",
+      "atlas": "world_v2"
+    },
+    "tile_oneway": {
+      "file": "sprites/tile_oneway.png",
+      "category": "tile",
+      "width": 232,
+      "height": 172,
+      "anchor": [
+        0.5,
+        0.558
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "One-way arrow tile (rotate/flip for direction)",
+      "atlas": "world_v2"
+    },
+    "trap_toxic": {
+      "file": "sprites/trap_toxic.png",
+      "category": "tile",
+      "width": 232,
+      "height": 163,
+      "anchor": [
+        0.5,
+        0.448
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Toxic puddle trap tile",
+      "atlas": "world_v2"
+    },
+    "chest": {
+      "file": "sprites/chest.png",
+      "category": "prop",
+      "width": 170,
+      "height": 172,
+      "anchor": [
+        0.5,
+        0.98
+      ],
+      "footprintTiles": [
+        1,
+        1
+      ],
+      "description": "Treasure chest (biome reward)",
+      "atlas": "world_v2"
     }
   },
   "note": "Isometric grid: screenX = (col - row) * tileWidth/2, screenY = (col + row) * tileHeight/2. Draw back-to-front by screenY. Tiles anchor at the centre of their top diamond.",
@@ -596,5 +880,10 @@
       ],
       "meaning": "Unknown / dig spot / hint"
     }
-  }
+  },
+  "atlases": [
+    "atlas/characters_v2.json",
+    "atlas/world_v2.json"
+  ],
+  "version": 2
 }

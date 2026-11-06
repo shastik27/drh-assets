@@ -1,9 +1,10 @@
 # Dead Road Heroes — game-ready art pack (v1)
 
-- `atlas/characters.png|json` — hero (4 evolution stages), 6 enemies, pickups. Phaser 3 "JSON Hash" atlas.
-- `atlas/world.png|json` — path tiles, node pad, walls, stairs, props.
+- `atlas/characters_v2.png|json` — hero (4 stages), 13 enemies, 4 survivors, pickups (key, hammer, crystal, dig spot). (v1 atlases kept for old builds)
+- `atlas/world_v2.png|json` — path tiles, node pad, portals, gates, bridge, one-way tile, toxic trap, chest, walls, props.
+- `badges/*.png` — 16 round 160px icon badges for mechanics and UI.
 - `sprites/*.png` — the same images as separate files (transparent PNG).
-- `ground/*_seamless.png` — tileable ground textures (grass, dirt, asphalt) for TileSprite backgrounds.
+- `ground/*_seamless_v2.png` — tileable ground textures (grass, dirt, asphalt) for TileSprite backgrounds.
 - `assets-manifest.json` — size, anchor (origin), footprint in tiles, description of every sprite + iso grid formula.
 - `preview_scene.jpg` — static mockup showing intended scale and composition.
 
