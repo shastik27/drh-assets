@@ -462,9 +462,139 @@
   },
   "note": "Isometric grid: screenX = (col - row) * tileWidth/2, screenY = (col + row) * tileHeight/2. Draw back-to-front by screenY. Tiles anchor at the centre of their top diamond.",
   "ground": {
-    "grass": "ground/ground_grass_seamless.png",
-    "dirt": "ground/ground_dirt_seamless.png",
-    "asphalt": "ground/ground_asphalt_seamless.png"
+    "grass": "ground/ground_grass_seamless_v2.png",
+    "dirt": "ground/ground_dirt_seamless_v2.png",
+    "asphalt": "ground/ground_asphalt_seamless_v2.png"
   },
-  "groundNote": "Fill the whole map with ground_grass as a TileSprite; blend dirt/asphalt patches with soft masks. Use outlined tile sprites only for paths and node pads."
+  "groundNote": "Fill the whole map with ground_grass as a TileSprite; blend dirt/asphalt patches with soft masks. Use outlined tile sprites only for paths and node pads.",
+  "badges": {
+    "badge_shield": {
+      "file": "badges/badge_shield.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Shield zombie: needs 2x power"
+    },
+    "badge_vampire": {
+      "file": "badges/badge_vampire.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Vampire: steals 25% power"
+    },
+    "badge_split": {
+      "file": "badges/badge_split.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Splitter: splits into two"
+    },
+    "badge_patrol": {
+      "file": "badges/badge_patrol.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Patroller: walks a loop"
+    },
+    "badge_sleep": {
+      "file": "badges/badge_sleep.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Sleeper: wakes up and chases"
+    },
+    "badge_lock": {
+      "file": "badges/badge_lock.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Locked gate"
+    },
+    "badge_key": {
+      "file": "badges/badge_key.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Key"
+    },
+    "badge_bomb": {
+      "file": "badges/badge_bomb.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Bomber: destroys nearby bridges/pickups"
+    },
+    "badge_grow": {
+      "file": "badges/badge_grow.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Grower: +N power per move"
+    },
+    "badge_timer": {
+      "file": "badges/badge_timer.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Move limit / timer"
+    },
+    "badge_star": {
+      "file": "badges/badge_star.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Star"
+    },
+    "badge_crystal": {
+      "file": "badges/badge_crystal.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Crystal currency"
+    },
+    "badge_skull": {
+      "file": "badges/badge_skull.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Skull premium currency"
+    },
+    "badge_x2": {
+      "file": "badges/badge_x2.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Multiplier gate"
+    },
+    "badge_div2": {
+      "file": "badges/badge_div2.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Divider trap"
+    },
+    "badge_question": {
+      "file": "badges/badge_question.png",
+      "size": [
+        160,
+        160
+      ],
+      "meaning": "Unknown / dig spot / hint"
+    }
+  }
 }
